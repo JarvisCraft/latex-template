@@ -5,8 +5,8 @@
 \LoadClass{article}
 
 \DeclareOption{diploma}{
-    \def\termsAndDefinitionsLine{В настоящей ВКР применяют следующие термины с соответствующими определениями:}
-    \def\abbreviationsLine{В настоящей ВКР применяют следующие сокращения и обозначения:}
+    \def\termsAndDefinitionsLine{В настоящей выпускной квалификационной работе специалиста применяют следующие термины с соответствующими определениями:}
+    \def\abbreviationsLine{В настоящей выпускной квалификационной работе специалиста применяют следующие сокращения и обозначения:}
     \def\fillTitle{\fillDiplomaTitle}
 }
 \DeclareOption{research}{
